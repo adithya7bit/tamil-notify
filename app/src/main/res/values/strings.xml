@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tamil Notify</string>
+    <string name="notification_listener_service_label">Tamil Notify Listener Service</string>
+    <string name="notification_listener_service_desc">Captures notifications from selected apps to translate text into Tamil.</string>
+</resources>

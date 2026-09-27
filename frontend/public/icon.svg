@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#0F172A"/>
+  <circle cx="256" cy="256" r="180" fill="url(#grad)" opacity="0.15"/>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#EA580C"/>
+    </linearGradient>
+  </defs>
+  <!-- Notification Bell Icon with Tamil accent -->
+  <path d="M256 120c-44.2 0-80 35.8-80 80v70l-28 28v22h216v-22l-28-28v-70c0-44.2-35.8-80-80-80z" fill="#F97316"/>
+  <path d="M226 340c0 16.6 13.4 30 30 30s30-13.4 30-30h-60z" fill="#EA580C"/>
+  <circle cx="340" cy="160" r="28" fill="#10B981"/>
+  <!-- Tamil Letter stylized accent -->
+  <text x="256" y="270" font-family="sans-serif" font-size="64" font-weight="bold" fill="#FFFFFF" text-anchor="middle">த</text>
+</svg>

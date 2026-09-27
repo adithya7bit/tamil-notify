@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Notification Bell with Tamil letter symbol styling -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M54,26c-9.94,0 -18,8.06 -18,18v16l-6,6v4h48v-4l-6,-6V44c0,-9.94 -8.06,-18 -18,-18zM48,74c0,3.31 2.69,6 6,6s6,-2.69 6,-6h-12z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,44h8v16h-8z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,48h16v4h-16z" />
+</vector>

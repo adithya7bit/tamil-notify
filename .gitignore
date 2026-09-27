@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+dist.zip
+build/
+app/build/
+.gradle/
+
+# Environment & Credentials
+.env
+.env.local
+.env.*.local
+API/api.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Vercel & Netlify
+.vercel
+.netlify
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Android generated
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
